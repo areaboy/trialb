@@ -1,6 +1,6 @@
 <?php
 //error_reporting(0); 
-$openshift_mysql_db_servername = "172.30.249.117:3306";
+$openshift_mysql_db_servername = "172.30.22.187:3306";
 $openshift_mysql_db_username = "userKBW";
 $openshift_mysql_db_password = "csSpMlS8ArEjWfOq";
 $openshift_mysql_db_port = 3306;
